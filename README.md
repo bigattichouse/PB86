@@ -8,12 +8,13 @@ I tweaked ScharreSoft's footprint to match the Honyone pinout of my buttons.
 hopefully this is a good strting point for you.
 
 See Also:
-https://github.com/adafruit/Adafruit-PB86-Breakout-PCB
-
-https://github.com/ScharreSoft/PB86-footprints-and-3d-models
+-https://github.com/adafruit/Adafruit-PB86-Breakout-PCB
+-https://github.com/ScharreSoft/PB86-footprints-and-3d-models
 
 A List of the pressbuttons can be found here: 
+
 http://www.honyone.com/en/products/list_42_1.html
 
-- Mike Johnson
-- father@bigattichouse.com
+Mike Johnson
+
+father@bigattichouse.com
